@@ -131,7 +131,8 @@ body {
         padding: 5%;
     }
     .apresentacao_imagem {
-        width: 25%;
+        padding: 10% 0 0 15%;
+        width: 15%;
     }
 
     .apresentacao__conteudo {
