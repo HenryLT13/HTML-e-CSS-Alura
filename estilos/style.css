@@ -130,6 +130,9 @@ body {
         flex-direction: column-reverse;
         padding: 5%;
     }
+    .apresentacao_imagem {
+        width: auto;
+    }
 
     .apresentacao__conteudo {
         width: auto;
